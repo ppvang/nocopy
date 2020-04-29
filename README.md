@@ -1,0 +1,2 @@
+# nocopy
+Chống copy content
